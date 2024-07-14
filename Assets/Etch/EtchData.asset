@@ -12,19 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 94653bfef201c47b8a3dbc050c136fdf, type: 3}
   m_Name: EtchData
   m_EditorClassIdentifier: 
-  xValue: 5748
-  yValue: 1090
-  zValue: 0
-  xPrev: 5748
-  yPrev: 1090
-  zPrev: 0
-  rValue: 120
-  gValue: 214
-  bValue: 103
+  xValue: 0
+  yValue: 1333
+  zValue: -421
+  xPrev: 0
+  yPrev: 1333
+  zPrev: -421
+  rValue: 255
+  gValue: -80
+  bValue: 111
   rPrev: 120
   gPrev: 215
   bPrev: 103
-  startColor: {r: 120, g: 214, b: 103, a: 1}
-  endColor: {r: 120, g: 214, b: 103, a: 1}
+  startColor: {r: 1, g: -0.3137255, b: 0.43529412, a: 1}
+  endColor: {r: 1, g: -0.3137255, b: 0.43529412, a: 1}
   lineWidth: 20
   timerDelay: 0.1
